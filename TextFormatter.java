@@ -1,0 +1,7 @@
+import java.util.*;
+public class TextFormatter{
+public static void main(String[] args){
+Scanner s=new Scanner(System.in);
+String t=s.nextLine();
+System.out.println(t.replace(" ",""));
+}}
